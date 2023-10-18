@@ -3,7 +3,7 @@
 > Projet personnel
 
 ### Objectif 💬
-Concevoir une calculatrice en ligne, qui affiche les résultats des calculs saisis par l'utilisateur à l'aide des touches virtuelles
+Développer une calculatrice, qui affiche les résultats des calculs saisis par l'utilisateur à l'aide des touches virtuelles
 
 ### Technologies ⚙️
 **HTML**, **CSS**, **Vanilla Javascript**
