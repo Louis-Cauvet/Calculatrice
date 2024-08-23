@@ -11,6 +11,6 @@ Projet réalisé intégralement en **HTML**, **CSS** et **Vanilla JS**.
 ### Prise en main du projet ⬇️
 Une fois le projet récupéré en local, vous avez juste à cliquer sur le fichier 'index.html' pour le visualiser.
 
-### Une illustration vaut mieux que des mots 📷
+### Image du projet 📷
 ![Calculatrice](https://github.com/Louis-Cauvet/Captures-des-projets/blob/main/Calculatrice/Capture.png)
 
